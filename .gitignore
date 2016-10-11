@@ -1,0 +1,19 @@
+# ignore dependencies
+/node_modules
+/bower_components
+
+/npm-debug.log
+
+*.db
+*.bak
+*.tmp
+*.cmd
+~*
+
+# Mac crap
+.DS_Store
+
+# WebStorm
+.idea/**/*
+.idea/**
+
